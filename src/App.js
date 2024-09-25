@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import { Card } from '@/components/ui/card';
-import { Input } from '@/components/ui/input';
-import { Button } from '@/components/ui/button';
+import { Card } from './components/ui/card';
+import { Input } from './components/ui/input';
+import { Button } from './components/ui/button';
 import { X, Edit2, Check } from 'lucide-react';
 
 const DraggableCard = ({ heading, content, onDragStart, onDelete, onEdit, isEditable }) => {
