@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        Dette FUNKER! IGJEN!!!
+        Dette FUNKER! IGJEN!!! Og igjen og igjen og <B>igjen.</B>
       </header>
     </div>
   );
